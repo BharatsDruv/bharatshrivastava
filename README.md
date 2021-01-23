@@ -1,4 +1,4 @@
 # bharatshrivastava
 Portfolio website
 
-http://bharatshrivastava.me/
+http://bharatshrivastava.tech/
